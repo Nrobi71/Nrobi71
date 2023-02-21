@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nrobi71
+- 👋 Hi, I’m Nyssa Robinson
 - 👀 I’m interested in React and Java or maybe C#
-- 🌱 I’m currently learning HTML, CSS and JS
+- 🌱 I’m efficient in HTML, CSS, JS, PostgreSQL, C++, Visual Studio, and Node
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
