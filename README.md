@@ -2,7 +2,7 @@
 - 👀 I’m interested in React, Python, Java and C#
 - 🌱 I’m efficient in HTML, CSS, JS, PostgreSQL, C++, Visual Studio, Node, and IntelliJ
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: nysrobinson@gmail.com
+- 📫 How to reach me: nysrobinson@gmail.com, nrobi71@wgu.edu
 
 <!---
 Nrobi71/Nrobi71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
